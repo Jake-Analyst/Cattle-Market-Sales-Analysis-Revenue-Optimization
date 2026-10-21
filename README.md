@@ -65,8 +65,3 @@ The dashboard provides an overview of cattle sales performance, highlighting rev
 
 This project demonstrates how Python, Excel, and Tableau can be used to transform unorganized cattle sales data into meaningful business insights. The findings support informed decisions about seasonal sales planning, breed selection, and market prioritization to improve revenue performance.
 
-## Author
-
-**Jake | Data Analyst**
-
-- GitHub: [@Jake-Analyst](https://github.com/Jake-Analyst)
