@@ -32,8 +32,6 @@ The dashboard provides an overview of cattle sales performance, highlighting rev
 
 ![Kamis Cattle Dashboard](https://raw.githubusercontent.com/Jake-Analyst/Cattle-Market-Sales-Analysis-Revenue-Optimization/main/Kamis%20Cattle%20Dashboard.png)
 
-**Repository:** [Cattle Market Sales Analysis & Revenue Optimization](https://github.com/Jake-Analyst/Cattle-Market-Sales-Analysis-Revenue-Optimization)
-
 ## Key Findings
 
 - **Peak Revenue Month:** May recorded the highest revenue.
